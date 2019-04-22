@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/conekta_example/form.js": "/js/conekta_example/form.js",
+    "/css/app.css": "/css/app.css",
+    "/js/manifest.js": "/js/manifest.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/vendor/require.js": "/js/vendor/require.js",
+    "/js/vendor/conekta/conekta.js": "/js/vendor/conekta/conekta.js",
+    "/js/vendor/conekta/resources/Order.js": "/js/vendor/conekta/resources/Order.js"
+}
